@@ -1,4 +1,4 @@
 type = plugin
-repository = https://github.com/cbdowell/omf-arch
+repository = https://github.com/cbdowell/omf-asdf
 maintainer = cbdowell
-description = Fish Plugin Wrapper For ArchLinux
+description = Fish Plugin Wrapper For ASDF
